@@ -1,0 +1,2 @@
+[artifactory]
+192.168.201.21 ansible_user=vagrant

@@ -1,0 +1,6 @@
+---
+- hosts: artifactory
+  remote_user: vagrant
+  become: true
+  roles:
+    - ./roles/artifactory
