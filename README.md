@@ -133,6 +133,3 @@ Custom `dockerd` options can be configured through this dictionary representing 
     - ./roles/artifactory
 ```
 
-## License
-
-MIT / BSD
